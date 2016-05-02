@@ -81,8 +81,8 @@
     <string name="accessibility_quick_settings_caffeine_on">Cafeína activada.</string>
 
     <!-- Expanded Desktop QS Tile -->
-    <string name="quick_settings_expanded_desktop">Extendido.</string>
-    <string name="quick_settings_expanded_desktop_off">Normal.</string>
+    <string name="quick_settings_expanded_desktop">Extendido</string>
+    <string name="quick_settings_expanded_desktop_off">Normal</string>
 
     <!-- Heads Up QS Tile -->
     <string name="quick_settings_heads_up_label">Notificaciones emergentes</string>
