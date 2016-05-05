@@ -59,8 +59,8 @@
 
     <!-- Battery Saver QS Tile -->
     <string name="quick_settings_battery_saver">Ahorro de batería</string>
-    <string name="accessibility_quick_settings_battery_saver_off">Apagar modo de ahorro de batería.</string>
-    <string name="accessibility_quick_settings_battery_saver_on">Encender modo de ahorro de batería.</string>
+    <string name="accessibility_quick_settings_battery_saver_off">Modo ahorro de batería desactivado.</string>
+    <string name="accessibility_quick_settings_battery_saver_on">Modo ahorro de batería activado.</string>
     <string name="accessibility_quick_settings_battery_saver_changed_off">Se ha apagado el ahorro de batería.</string>
     <string name="accessibility_quick_settings_battery_saver_changed_on">Se ha encendido el ahorro de batería.</string>
 
